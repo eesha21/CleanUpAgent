@@ -1,0 +1,9 @@
+streamlit
+pillow
+pillow_heif
+imagehash
+google-auth
+google-auth-oauthlib
+google-api-python-client
+tqdm
+Pyside6
